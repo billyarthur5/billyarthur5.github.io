@@ -1,4 +1,4 @@
-#self-introduction
+# self-introduction
 
 # billyarthur5.github.io
 Hello! My name is Billy Arthur, and I am a sophomore at Lehigh University, double-majoring in [Community & Global Health and Journalism](https://www.linkedin.com/in/william-arthur1/).
