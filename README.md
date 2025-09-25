@@ -8,6 +8,6 @@ Hello! My name is Billy Arthur, and I am a sophomore at Lehigh University, doubl
 
 This infographic is a visual representation of the different type of people that attend Lehigh Unviersity. All information was taken directly from Lehigh University's Office of Institutional Data, which publishes demographic statistics from each admissions cyle
 
-When analyzing this data, one can clearly see  disparities and over-representations throughout, whether it is the amount of PA, NY, and NJ residents, or the members of the Colelge of Arts & Sciences
+When analyzing this data, one can clearly see  disparities and over-representations throughout, whether it is the amount of PA, NY, and NJ residents, or the members of the College of Arts & Sciences
 
 [Dataset](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
