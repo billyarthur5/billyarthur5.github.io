@@ -20,4 +20,10 @@ When analyzing this data, one can clearly see  disparities and over-representati
 
 # MLB Attendance Infographic
 
-!
+![infographicimage2](https://github.com/billyarthur5/billyarthur5.github.io/blob/main/30%25.png) 
+
+This infographic is a visual representation of the attendance statistics from the 2025 MLB season. All information was taken directly from Baseball Reference's attendance datasheet, which tracks average attendance for each MLB game.
+
+When analyzing this data, one can clearly see an over-representation of bog-market teams in the top 10 most attended games. 
+
+[Dataset](https://www.baseball-reference.com/leagues/majors/2025-misc.shtml?utm_source=chatgpt.com#teams_miscellaneous)
