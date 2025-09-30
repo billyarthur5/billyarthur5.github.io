@@ -14,3 +14,10 @@ This infographic is a visual representation of the different type of people that
 When analyzing this data, one can clearly see  disparities and over-representations throughout, whether it is the amount of PA, NY, and NJ residents, or the members of the College of Arts & Sciences
 
 [Dataset](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
+
+
+
+
+# MLB Attendance Infographic
+
+!
