@@ -27,3 +27,6 @@ This infographic is a visual representation of the attendance statistics from th
 When analyzing this data, one can clearly see an over-representation of bog-market teams in the top 10 most attended games. 
 
 [Dataset](https://www.baseball-reference.com/leagues/majors/2025-misc.shtml?utm_source=chatgpt.com#teams_miscellaneous)
+
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTzRsVkSl3dzO6Ck1j6MVzuiyq8w6SdDmRhIvldM9R3Z9AwWoVntgfcgSEGa5lvDTHeA1DLjYdGHoDx&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
