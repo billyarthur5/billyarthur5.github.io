@@ -33,3 +33,6 @@ When analyzing this data, one can clearly see an over-representation of bog-mark
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSIMbfHxx5BXnmrH7exmP_nfDNI7MTjS7B4-WSLrmS57rhFOYcJVyUPixC4Er3AntHf8uE5kf7gCD51&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+<iframe title="2025 Lehigh University College Enrollment" aria-label="Pie Chart" id="datawrapper-chart-eyo6G" src="https://datawrapper.dwcdn.net/eyo6G/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="557" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
