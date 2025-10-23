@@ -45,4 +45,4 @@ When analyzing this data, one can clearly see an over-representation of bog-mark
 
 <iframe title="Average MLB Attendance from 1980-2025" aria-label="Line chart" id="datawrapper-chart-xdFMw" src="https://datawrapper.dwcdn.net/xdFMw/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="413" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-https://www.google.com/maps/d/u/0/edit?mid=1d50y2FDMzWS9YExeS9M9O37F1NJGD84&usp=sharing
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1d50y2FDMzWS9YExeS9M9O37F1NJGD84&ehbc=2E312F" width="640" height="480"></iframe>
